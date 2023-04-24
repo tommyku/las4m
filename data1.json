@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "data": "data1.json content",
+  "extra": { "load": "data1_extra.json" },
+  "save": "data1.json"
+}

@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "data": [
+    { "load": "data1.json" }
+  ],
+  "save": "pl.json"
+}
